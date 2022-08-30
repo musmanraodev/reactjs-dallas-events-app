@@ -79,7 +79,7 @@ class Header extends Component {
                   {this.renderLogoutLink()}
                 </ul>
               </li>
-              <li onClick={() => window.open("http://www.muhammadusman.tk/")} >
+              <li onClick={() => window.open("https://musmanrao1994.github.io/")} >
                 Portfolio
               </li>
             </ul>
